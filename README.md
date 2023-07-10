@@ -7,12 +7,12 @@ I have included various projects that showcase my ability to analyze and present
 
 Projects:
 
-Project 1: Exploratory Data Analysis
+Project 1: Exploratory Data Analysis with Home Credit Risk- relationship between target and predictors through use of visualizations and data cleaning
 
-Project 2: Modeling
+Project 2: Modeling with Home Credit Risk- use of cross validation, peformance benchmarks, random forest and gradient boosting, upsampling and downsampling, and additional feature engineering to boost model performance
 
 Project 3: Churn Balance
 
-Project 4: Business Shop
+Project 4: Business Shop- use of python coding to establish how a flower buisness shop would run through a business transaction while maintaing inventory
 
 Project 5: Azure/Power BI
