@@ -12,3 +12,7 @@ Project 1: Exploratory Data Analysis
 Project 2: Modeling
 
 Project 3: Churn Balance
+
+Project 4: Business Shop
+
+Project 5: Azure/Power BI
