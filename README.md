@@ -10,11 +10,11 @@ Business Value of Solution: With this solution, it provides value to the busines
 
 Projects:
 
-Exploratory Data Analysis: relationship between target and predictors through use of visualizations and data cleaning
+>Exploratory Data Analysis: relationship between target and predictors through use of visualizations and data cleaning
 
-Modeling: use of cross validation, peformance benchmarks, random forest and gradient boosting, upsampling and downsampling, and additional feature engineering to boost model performance
+>Modeling: use of cross validation, peformance benchmarks, random forest and gradient boosting, upsampling and downsampling, and additional feature engineering to boost model performance
 
-Presentation
+>Presentation: group documentation and outline of Home Credit Risk presentation with final notes
 
 Difficulties: Some difficulties we had were when we were modeling the different tasks and making sure that all the varaiables were the same across the board. The other problem we faced was how we dealt with NA's.
 Learning Experience: Overall, this was a great learning experience because I got to experience first hand of analyzing a project from start to finish. I got to see the nuances that would prehibit further movement in a project and troublshoot on how to get out of the situation. This class allowed me to apply my analytical skills to business understandings, which will help with our next sponsor workshop.
