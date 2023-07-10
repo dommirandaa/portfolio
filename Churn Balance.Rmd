@@ -1,8 +1,7 @@
 ---
-title: "Assignment 1 by Dominique Miranda"
+title: "Churn Balance"
 author: "Dominique Miranda"
 output: html_document
-date: "2023-01-20"
 ---
 output: 
   html_document:
